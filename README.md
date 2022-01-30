@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bhanukiran9349
-- 👀 I’m interested in Machine Learning.
+- 👀 I’m interested in Machine Learning & Deep Learning.
 - 🌱 I’m currently learning Data Science.
-- 💞️ I’m looking to collaborate on Machine Learning Projects.
+- 💞️ I’m looking to collaborate on Machine Learning & Deep Learning Projects.
 - 📫 How to reach me bhanukiran9349@gmail.com
 
 <!---
